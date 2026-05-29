@@ -10,6 +10,7 @@ Currently leading Finance AI strategy at a large-cap medtech company: generative
 
 | Domain | What | How |
 |--------|------|-----|
+| **Data Platform Governance** | Layered architecture for 1,200+ objects with self-service access and 99.9% MDM accuracy | [data-platform-governance](https://github.com/abchatter/data-platform-governance) |
 | **Structured Data AI** | Semantic layers enabling AI agents to query financial data without hallucination | [semantic-layer-finance](https://github.com/abchatter/semantic-layer-finance) |
 | **Unstructured Data AI** | Enterprise RAG platform for document search, chat, and automated comparison | [document-intelligence-platform](https://github.com/abchatter/document-intelligence-platform) |
 | **Operational AI** | Event-driven automation for work classification, routing, and validation | [ai-workflow-automation](https://github.com/abchatter/ai-workflow-automation) |
